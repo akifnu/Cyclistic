@@ -1,6 +1,4 @@
-# cyclistic (Python Version, R and SQL is on the way)
-
-![image](https://user-images.githubusercontent.com/65511509/118147603-09b0f300-b410-11eb-932b-a815afc4e44e.png)
+# cyclistic (Python Version, R and SQL is on the way) ![image](https://user-images.githubusercontent.com/65511509/118147603-09b0f300-b410-11eb-932b-a815afc4e44e.png)
 
 Case study from **Google Professional Data Analytics Certificate**, however this version is a python implementation, the SQL or R version is in work.
 
