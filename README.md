@@ -1,5 +1,5 @@
-# cyclistic
-Case study from Google Professional Data Analytics Certificate, however this version is a python implementation instead of SQL or R.
+# cyclistic (Python Version, R and SQL is on the way)
+Case study from Google Professional Data Analytics Certificate, however this version is a python implementation, the SQL or R version is in work.
 
 **Scenerio:**
 The role of the analyzer is a junior data analyst, who is working in the marketing analyst team at Cyclistic, a bike-share company in Chicago. The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore, your team wants to understand how casual riders and annual members use Cyclistic bikes dierently. From these insights, your team will design a new marketing strategy to convert casual riders into annual members. But first, Cyclistic executives must approve your recommendations, so they must be backed up with compelling data insights and professional data visualizations.
@@ -12,8 +12,4 @@ For the case the data analyst is supposed to answer only:
 
 How do annual members and casual riders use Cyclistic bikes differently?
 
-Results:
-
-The casual memebers are less in number however 
-![Seasonal user distribution](https://user-images.githubusercontent.com/65511509/118132922-83d97b80-b400-11eb-942f-2091e647ed32.png)
-
+I used python notebook Google Colab to clean, organize and join data. Further a pandas pivot table was used to summerize the results.
