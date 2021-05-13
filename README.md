@@ -11,3 +11,9 @@ Moreno has set a clear goal: Design marketing strategies aimed at converting cas
 For the case the data analyst is supposed to answer only:
 
 How do annual members and casual riders use Cyclistic bikes differently?
+
+Results:
+
+The casual memebers are less in number however 
+![Seasonal user distribution](https://user-images.githubusercontent.com/65511509/118132922-83d97b80-b400-11eb-942f-2091e647ed32.png)
+
